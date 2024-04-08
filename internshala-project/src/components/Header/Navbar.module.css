@@ -1,0 +1,9 @@
+.pointer{
+    cursor: pointer;
+    color: rgb(165, 165, 165);
+    margin-top: 5px;
+}
+
+.pointer:hover{
+    color: black;
+}
