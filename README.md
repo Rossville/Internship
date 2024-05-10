@@ -1,1 +1,1 @@
-# This repo consists of internship assignment.
+# This repo consists of internship assignments.
